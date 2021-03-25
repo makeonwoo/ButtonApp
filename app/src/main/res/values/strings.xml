@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ButtonApp</string>
+    <string name="button_text">마건우의 버튼</string>
 </resources>
